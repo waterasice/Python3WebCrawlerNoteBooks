@@ -13,3 +13,5 @@ Thanks Germey
 - urllib(2018-11-25)
 - requests(2018-11-25)
 - regex(2018-12-14)
+- beautifulsoup(2018-12-25)
+- puquery(2018-12-25)
