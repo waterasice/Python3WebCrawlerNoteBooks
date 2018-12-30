@@ -19,6 +19,6 @@ Thanks [Germey](https://github.com/Germey)
 - selenium(2018-12-30)
 
 ### Practice
-[Crawling maoyan Top 100 with request and re](https://github.com/waterasice/Python3WebCrawlerNoteBooks/tree/master/Practice/MaoYanTop100)
+[Crawling maoyan Top 100 with requests and re](https://github.com/waterasice/Python3WebCrawlerNoteBooks/tree/master/Practice/MaoYanTop100)
 
 
