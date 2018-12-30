@@ -18,4 +18,7 @@ Thanks [Germey](https://github.com/Germey)
 - pyquery(2018-12-25)
 - selenium(2018-12-30)
 
-### Pratice
+### Practice
+[Crawling maoyan Top 100 with request and re](https://github.com/waterasice/Python3WebCrawlerNoteBooks/tree/master/Practice/MaoYanTop100)
+
+
