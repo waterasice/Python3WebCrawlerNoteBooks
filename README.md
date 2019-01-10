@@ -22,7 +22,10 @@ Thanks [Germey](https://github.com/Germey)
 - selenium(2018-12-30)
 
 ### Practice
-[Crawling maoyan Top 100 with requests and re](https://github.com/waterasice/Python3WebCrawlerNoteBooks/tree/master/Practice/MaoYanTop100)
 
-[Crawling toutiao.com with requests bs4 pymongo](https://github.com/waterasice/python_crawler/blob/master/toutiao_Ajax_crawler/ajax_clawer.py)
+[Cet maoyan Top 100 with requests and re](https://github.com/waterasice/Python3WebCrawlerNoteBooks/tree/master/Practice/MaoYanTop100)
+
+[Cet toutiao.com with requests bs4 pymongo](https://github.com/waterasice/python_crawler/blob/master/toutiao_Ajax_crawler/ajax_clawer.py)
+
+[Get a lot of valid ip from www.xicidaili.com/wt and store with redis](https://github.com/waterasice/Python3WebCrawlerNoteBooks/blob/master/Practice/XiciProxy/getXiciProxy.py)
 
