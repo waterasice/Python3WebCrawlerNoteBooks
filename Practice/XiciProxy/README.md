@@ -1,8 +1,19 @@
+# Download
 
-- requests
-- redis
--  time
--  re
--  random
+```
+git clone https://github.com/waterasice/Python3WebCrawlerNoteBooks.git
+```
 
-And src is here [Get a lot of valid ip from www.xicidaili.com/wt](https://github.com/waterasice/Python3WebCrawlerNoteBooks/blob/master/Practice/XiciProxy/getXiciProxy.py)
+#Install modules
+
+```
+pip install -r require.txt
+```
+
+# Run
+
+```
+cd Python3WebCrawlerNoteBooks\Practice\XiciProxy
+
+python3 getXiciProxy.py
+```
