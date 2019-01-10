@@ -13,7 +13,7 @@ pip install -r require.txt
 # Run
 
 ```
-cd Python3WebCrawlerNoteBooks\Practice\XiciProxy
+cd Python3WebCrawlerNoteBooks/Practice/XiciProxy
 ```
 
 ```
