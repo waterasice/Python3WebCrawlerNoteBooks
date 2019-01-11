@@ -27,7 +27,12 @@ def getXCProxyIp(max_page_number):
         }
         page_number = i
         init_url = 'http://www.xicidaili.com/wt/' + str(i)
-        req = requests.get(init_url, headers=headers)
+		# 增加重连次数
+		requests.adapters.DEFAULT_RETRIES = 5
+		s = requests.session()
+		# 关闭多余连接
+		s.keep_alive = False 
+        req = s.get(init_url, headers=headers)
         # 获取代理 ip
         agency_ip_re = re.compile(r'\b(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\b' ,re.S)
         agency_ip = agency_ip_re.findall(req.text)
