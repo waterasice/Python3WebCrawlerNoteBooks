@@ -9,9 +9,9 @@ from datetime import datetime
 import time
 from apscheduler.schedulers.blocking import BlockingScheduler
  
-my_sender='penggang@csg.com.cn'    
-my_pass = '123456CSg'              
-my_user='823301766@qq.com'      
+my_sender='xxx@163.com'    
+my_pass = 'xxxxxx'              
+my_user='xxx@qq.com'      
 NanJiWEATHER_URL = "http://www.weather.com.cn/weather/101190101.shtml"
 
 def create_db_table():        

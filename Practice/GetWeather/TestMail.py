@@ -5,9 +5,9 @@ import smtplib
 from email.mime.text import MIMEText
 from email.utils import formataddr
  
-my_sender='penggang@csg.com.cn'    # 发件人邮箱账号
-my_pass = '123456CSg'              # 发件人邮箱密码
-my_user='823301766@qq.com'      # 收件人邮箱账号
+my_sender='xxx@163.com'    # 发件人邮箱账号
+my_pass = 'xxxxxx'              # 发件人邮箱密码
+my_user='xxx@qq.com'      # 收件人邮箱账号
 def mail():
     ret=True
     try:

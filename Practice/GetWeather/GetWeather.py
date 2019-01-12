@@ -12,9 +12,9 @@ from apscheduler.schedulers.blocking import BlockingScheduler
 import logging
 logging.basicConfig(level=logging.DEBUG)
  
-my_sender='penggang@csg.com.cn'    
+my_sender='xxxxx@163.com'    
 my_pass = '********'              
-my_user='823301766@qq.com'      
+my_user='xxxxxx@qq.com'      
 NanJiWEATHER_URL = "http://www.weather.com.cn/weather/101190101.shtml"
 
 def create_db_table():        
