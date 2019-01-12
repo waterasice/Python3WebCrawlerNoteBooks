@@ -29,3 +29,4 @@ Thanks [Germey](https://github.com/Germey)
 
 [Get a lot of valid ip from www.xicidaili.com/wt and store with redis](https://github.com/waterasice/Python3WebCrawlerNoteBooks/blob/master/Practice/XiciProxy/getXiciProxy.py)
 
+[Get weather and send email everyday with apscheduler](https://github.com/waterasice/Python3WebCrawlerNoteBooks/blob/master/Practice/GetWeather/GetWeather.py)
