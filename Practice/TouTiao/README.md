@@ -1,3 +1,4 @@
+# requirements
 
 - requests
 - pymongo
@@ -6,4 +7,19 @@
 -  json
 -  multiprocessing 
 
-And src is here [Crawling toutiao.com  with requests bs4 pymongo](https://github.com/waterasice/python_crawler/blob/master/toutiao_Ajax_crawler/ajax_clawer.py)
+# Config
+
+MONGO_URL ='localhost'
+MONGO_DB = 'toutiao'
+MONGO_TABLE = 'toutiao'
+
+GROUP_START = 1
+GROUP_END = 2
+KEYWORD = '模特'
+
+
+# Run
+
+`python3 ajax_clawer.py`
+
+then it will download a lot of pic from www.toutiao.com
