@@ -25,7 +25,7 @@ Thanks [Germey](https://github.com/Germey)
 
 [Cet maoyan Top 100 with requests and re](https://github.com/waterasice/Python3WebCrawlerNoteBooks/tree/master/Practice/MaoYanTop100)
 
-[Cet toutiao.com with requests bs4 pymongo](https://github.com/waterasice/python_crawler/blob/master/toutiao_Ajax_crawler/ajax_clawer.py)
+[Cet toutiao.com with requests bs4 pymongo](https://github.com/waterasice/Python3WebCrawlerNoteBooks/tree/master/Practice/TouTiao)
 
 [Get a lot of valid ip from www.xicidaili.com/wt and store with redis](https://github.com/waterasice/Python3WebCrawlerNoteBooks/blob/master/Practice/XiciProxy/getXiciProxy.py)
 
