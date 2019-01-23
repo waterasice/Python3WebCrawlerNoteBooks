@@ -32,3 +32,5 @@ Thanks [Germey](https://github.com/Germey)
 [Get weather and send email everyday with apscheduler](https://github.com/waterasice/Python3WebCrawlerNoteBooks/blob/master/Practice/GetWeather/GetWeather.py)
 
 [Get moives from http://www.ygdy8.net/](https://github.com/waterasice/Python3WebCrawlerNoteBooks/tree/master/Practice/Ygdy8)
+
+[Get and preserve proxy with Redis Flask](https://github.com/waterasice/Python3WebCrawlerNoteBooks/tree/master/Practice/ProxyPool)
