@@ -8,8 +8,6 @@ Thanks [Germey](https://github.com/Germey)
 
 ---
 
-# X-mind
-![](https://ws4.sinaimg.cn/large/006tNbRwly1fyp5j5lkp0j30pb0tv0w2.jpg)
 
 # INCLUDE
 
@@ -34,3 +32,9 @@ Thanks [Germey](https://github.com/Germey)
 [Get moives from http://www.ygdy8.net/](https://github.com/waterasice/Python3WebCrawlerNoteBooks/tree/master/Practice/Ygdy8)
 
 [Get and preserve proxy with Redis Flask](https://github.com/waterasice/Python3WebCrawlerNoteBooks/tree/master/Practice/ProxyPool)
+
+--- 
+
+
+# X-mind
+![](https://ws4.sinaimg.cn/large/006tNbRwly1fyp5j5lkp0j30pb0tv0w2.jpg)
