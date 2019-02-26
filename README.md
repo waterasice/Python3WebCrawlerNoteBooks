@@ -33,6 +33,8 @@ Thanks [Germey](https://github.com/Germey)
 
 [Get and preserve proxy with Redis Flask](https://github.com/waterasice/Python3WebCrawlerNoteBooks/tree/master/Practice/ProxyPool)
 
+[Cet douban Top 250 with requests and xpath](https://github.com/waterasice/Python3WebCrawlerNoteBooks/tree/master/Practice/DoubanMoiveTop250)
+
 --- 
 
 
