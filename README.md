@@ -36,6 +36,7 @@ Thanks [Germey](https://github.com/Germey)
 [Cet douban Top 250 moives with requests and xpath](https://github.com/waterasice/Python3WebCrawlerNoteBooks/tree/master/Practice/DoubanMoiveTop250)
 
 [Cet steam top seller with re and xpath](https://github.com/waterasice/Python3WebCrawlerNoteBooks/tree/master/Practice/SteamTopSeller)
+
 --- 
 
 
